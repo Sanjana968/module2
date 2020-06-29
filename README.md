@@ -12,7 +12,7 @@
 		box-sizing: border-box;
 	}
 	body {
-		background-color: white;
+		background-color: gray;
 	}
 	h1 {
 		margin: 100px;
@@ -48,7 +48,7 @@
 		text-align: center;
 		font-size: 125%;
 		font-weight: bold;
-		background-color: white;
+		background-color: pink;
 
 	}
 	.sub2 {
@@ -61,7 +61,7 @@
 		text-align: center;
 		font-size: 125%;
 		font-weight: bold;
-		background-color: maroon;
+		background-color: blue;
 
 	}
 	.sub3 {
@@ -74,7 +74,7 @@
 		text-align: center;
 		font-size: 125%;
 		font-weight: bold;
-		background-color: tomato;
+		background-color: red;
 
 	}
 	.content {
@@ -123,7 +123,7 @@
 	}
 </style>
 <body >
-<h1>Woo Hoo !!!</h1>
+<h1>Coding assignment rules !!!</h1>
 	<section class="column-lg-4 colmn-md-6 colmn-sm-12">
 		<div>
 			<p class="sub1">Section</p>
